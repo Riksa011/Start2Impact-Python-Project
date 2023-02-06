@@ -14,9 +14,10 @@ Le richieste elaborate dal programma sono:
 
 #### :hash: Ecco un'anteprima del programma in esecuzione e del file json generato:
 
-![1](https://user-images.githubusercontent.com/122997887/215443693-ea6ad73d-5916-41ad-bb89-c90af43d8c2f.png)
-![2](https://user-images.githubusercontent.com/122997887/215443711-5f9c4105-daee-487c-afb5-5d410105e822.png)
-![3](https://user-images.githubusercontent.com/122997887/215443727-c846355e-5111-4cab-83dc-f262318654a8.png)
+![1](https://user-images.githubusercontent.com/122997887/217040805-8e3eadfb-b5d1-49a8-8efb-75735cfedeba.png)
+![2](https://user-images.githubusercontent.com/122997887/217040814-8d2f7386-dc57-483d-9aee-f845dcbf98a4.png)
+![3](https://user-images.githubusercontent.com/122997887/217040827-4cbc14ba-ecfb-4935-8b3a-14d51f9e3151.png)
+
 
 
 
